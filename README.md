@@ -1,5 +1,4 @@
-![logo](https://github.com/Jeevith08/Jeevith08/blob/78f48d8f78629e26371588b10a55dd4f97462a19/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
-
+![logo]
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 <h3 align="center">A Passionate Computer Science Engineer from India 🚀</h3>
 
